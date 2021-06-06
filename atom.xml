@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-06T15:08:18.563Z</updated>
+  <updated>2021-06-06T15:17:44.316Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/06/06/MarkDown%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2021/06/06/MarkDown%E7%AC%94%E8%AE%B0/</id>
     <published>2021-06-06T12:46:25.000Z</published>
-    <updated>2021-06-06T15:08:18.563Z</updated>
+    <updated>2021-06-06T15:17:44.316Z</updated>
     
     
     <summary type="html">MarkDown笔记</summary>
@@ -29,7 +29,9 @@
     
     
     
-    <category term="MarkDown笔记 笔记" scheme="http://example.com/tags/MarkDown%E7%AC%94%E8%AE%B0-%E7%AC%94%E8%AE%B0/"/>
+    <category term="MarkDown笔记" scheme="http://example.com/tags/MarkDown%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="笔记" scheme="http://example.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -51,6 +53,25 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>HTML基础</title>
+    <link href="http://example.com/2021/06/06/html%E5%9F%BA%E7%A1%80/"/>
+    <id>http://example.com/2021/06/06/html%E5%9F%BA%E7%A1%80/</id>
+    <published>2021-06-05T16:00:00.000Z</published>
+    <updated>2021-06-06T15:23:59.616Z</updated>
+    
+    
+    <summary type="html">HTML基础</summary>
+    
+    
+    
+    
+    <category term="HTML" scheme="http://example.com/tags/HTML/"/>
+    
+    <category term="web前端" scheme="http://example.com/tags/web%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
